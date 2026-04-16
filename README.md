@@ -1,4 +1,4 @@
-# Motor_fault_predictions
+# Motor_fault_predictions v1
  ✓ GPU detected and working!
 
 Found 12/12 files
